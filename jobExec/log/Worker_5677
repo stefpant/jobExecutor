@@ -1,0 +1,5 @@
+2018-04-28 02:46:00 : search : this : testing_dirs/dir_0/Entertainment.txt : testing_dirs/dir_2/Untitled_Document : testing_dirs/dir_3/Untitled_Document : testing_dirs/dir_4/Untitled_Document
+2018-04-28 02:46:00 : search : is : testing_dirs/dir_0/Untitled_Document : testing_dirs/dir_0/Entertainment.txt : testing_dirs/dir_1/dir_1a/Untitled_Document : testing_dirs/dir_2/Untitled_Document : testing_dirs/dir_3/Untitled_Document : testing_dirs/dir_4/Untitled_Document
+2018-04-28 02:46:00 : search : the : testing_dirs/dir_0/Untitled_Document : testing_dirs/dir_0/Entertainment.txt : testing_dirs/dir_1/dir_1a/Untitled_Document : testing_dirs/dir_2/Untitled_Document : testing_dirs/dir_3/Untitled_Document : testing_dirs/dir_4/Untitled_Document
+2018-04-28 02:46:00 : search : end : testing_dirs/dir_0/Untitled_Document : testing_dirs/dir_0/Entertainment.txt : testing_dirs/dir_2/Untitled_Document : testing_dirs/dir_3/Untitled_Document
+2018-04-28 02:46:05 : wc : [NULL] : 768634 131718 402

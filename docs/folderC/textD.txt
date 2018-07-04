@@ -1,0 +1,4 @@
+Most of my students were able to understand a simplified
+drawing of a chunk of memory, generally the local variables
+section of the stack at the current scope. Generally giving
+explicit fictional addresses to the various locations helped.

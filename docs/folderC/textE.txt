@@ -1,0 +1,6 @@
+In six months, when I have to maintain this code,
+I will spend more time trying to figure out what all this
+means than rewriting from the ground up. (yeah, probably
+got that syntax wrong -- it's been a while since I've
+done anything in C. I kinda miss it, but then I'm a bit
+of a massochist).

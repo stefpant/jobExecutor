@@ -1,0 +1,6 @@
+Many programmers make this mistake by calling function A
+that then calls function B, that then calls function C,
+that then calls function A. It might work most of the time,
+but just once the wrong input will cause it to go in that
+circle forever until the computer recognizes that the
+stack is overblown.
